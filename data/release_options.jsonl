@@ -1,0 +1,7 @@
+{"edition":"cmn-old-old","language":"cmn","paper":"old","audio":"old","requires_pair":true,"banned_for_new_on":null}
+{"edition":"cmn-new-new","language":"cmn","paper":"new","audio":"new","requires_pair":true,"banned_for_new_on":null}
+{"edition":"yue-old-old","language":"yue","paper":"old","audio":"old","requires_pair":true,"banned_for_new_on":"2026-10-26"}
+{"edition":"yue-new-new","language":"yue","paper":"new","audio":"new","requires_pair":true,"banned_for_new_on":null}
+{"edition":"en-old-old","language":"en","paper":"old","audio":"old","requires_pair":false,"banned_for_new_on":null}
+{"edition":"en-new-new","language":"en","paper":"new","audio":"new","requires_pair":false,"banned_for_new_on":null}
+{"edition":"en-new-old","language":"en","paper":"new","audio":"old","requires_pair":false,"banned_for_new_on":null}

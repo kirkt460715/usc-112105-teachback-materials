@@ -1,0 +1,64 @@
+{
+  "dispatch": [
+    "encounter",
+    "language",
+    "ward",
+    "assigned",
+    "paper",
+    "audio",
+    "order",
+    "cluster",
+    "followup"
+  ],
+  "scores": [
+    "score",
+    "encounter",
+    "task",
+    "assessor",
+    "understood",
+    "received_on"
+  ],
+  "targets": [
+    "language",
+    "task",
+    "goal",
+    "anchor_label"
+  ],
+  "anchor_changes": [
+    "notice",
+    "language",
+    "task",
+    "applied_on",
+    "kind"
+  ],
+  "review_floors": [
+    "rule",
+    "goal",
+    "minimum_acceptance",
+    "max_decrease",
+    "minimum_cluster"
+  ],
+  "release_options": [
+    "edition",
+    "language",
+    "paper",
+    "audio",
+    "requires_pair",
+    "banned_for_new_on"
+  ],
+  "active_wards": [
+    "handoff",
+    "ward",
+    "language",
+    "encounter",
+    "paper",
+    "audio_complete"
+  ],
+  "scorer_reviews": [
+    "review",
+    "encounter",
+    "task",
+    "decided",
+    "received_on"
+  ]
+}
