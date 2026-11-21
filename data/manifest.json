@@ -54,6 +54,17 @@
     "paper",
     "audio_complete"
   ],
+  "bridge_cases": [
+    "bridge",
+    "language",
+    "goal",
+    "case",
+    "old_task",
+    "new_task",
+    "old_understood",
+    "new_understood",
+    "state"
+  ],
   "scorer_reviews": [
     "review",
     "encounter",

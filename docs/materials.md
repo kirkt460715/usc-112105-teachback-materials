@@ -44,6 +44,12 @@ assigned 为分派版次，paper、audio 为实际接触版次。cluster 是同�
 
 字段 `handoff`, `ward`, `language`, `encounter`, `paper`, `audio_complete`。
 
+## bridge_cases
+
+审订组核对跨版含义使用的合成共同案例，列出可比语言、理解目标、情形与两版任务的独立判定。confirmed 指复审认可；同一共同案例不属于回访试验样本。
+
+字段 `bridge`, `language`, `goal`, `case`, `old_task`, `new_task`, `old_understood`, `new_understood`, `state`。
+
 ## scorer_reviews
 
 评分员异议可以在审订前复核，决议只适用列出的该次回述任务。
